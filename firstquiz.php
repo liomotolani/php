@@ -1,0 +1,2 @@
+<?php
+echo "Omotolani, a young lady who is aspiring to be a full stack developer.<br> She has a beautiful heart.<br> Inspiring to educate young girls in her community to discover their potentials.<br> omotolani is a christian, she is keen in creating things that will solve some of the major problems in Africa.";
